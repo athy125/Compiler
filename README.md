@@ -1,4 +1,5 @@
-#####Compiler-Project
+#Compiler-Project
+
 This repository contains the compiler designed in C following the language specifications provided in Language Specifications.pdf
 
 The compiler parses input files according to the language specifications, and if the input is syntactically and semantically correct, it is capable of generating corresponding assembly-level code. Some testcases have been provided in Compiler/testcases.
